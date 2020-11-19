@@ -1,0 +1,19 @@
+//conectando layouts con main.scss
+
+
+//abstrac
+@import 'abstract/functions';
+@import 'abstract/variables';
+//base
+@import 'base/reset';
+@import 'base/tipografia';
+
+//components
+@import 'components/botones';
+
+//layouts
+@import 'layouts/container';
+@import 'layouts/grids';
+@import 'layouts/navegador';
+@import 'layouts/sectionInfo';
+@import 'layouts/sectionNav';
